@@ -3,3 +3,4 @@ An app to explore NLP - practice various NLP capabilities and build an app with 
 
 * LOTR sentiment analysis
 * Bitcoin Twitter sentiment analysis and price action. Detect indicators of price movements.
+* Text summarization. Use LOTR or legal document.
